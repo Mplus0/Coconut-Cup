@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+build/
+devel/
+install/
+log/
+*.log
+*.pt
+*.pth
+*.onnx
+.DS_Store
